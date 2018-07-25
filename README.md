@@ -1,5 +1,5 @@
 # swc
-<p> for Frni End
+<p> for Front End
 <p>clone to local 
 <p>run npm install
 <p>run npm start
