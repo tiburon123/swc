@@ -1,4 +1,4 @@
 # swc
-clone to local <b>
-run npm install<b>
-run npm start
+<p>clone to local <b>
+<p>run npm install<b>
+<p>run npm start
